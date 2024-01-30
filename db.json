@@ -1,0 +1,85 @@
+{
+  "personas": [
+    {
+      "id": "1",
+      "nombre": "Josep",
+      "apellido": "Magraner i Ramon",
+      "dni": "2020202020",
+      "email": "josep@email.com",
+      "telefono": "2982728972",
+      "horasMantenimiento": "5",
+      "especialidad": "Front-End",
+      "fechaIngreso": "24/02/2023"
+    },
+    {
+      "id": "2",
+      "nombre": "Jose Fidel",
+      "apellido": "Oltra Landete",
+      "dni": "1122121121",
+      "email": "fidel@email.com",
+      "telefono": "2982728972",
+      "horasMantenimiento": "6",
+      "especialidad": "Back-End",
+      "fechaIngreso": "24/02/2012"
+    },
+    {
+      "id": "3",
+      "nombre": "Guillermo",
+      "apellido": "Vidal Frasquet",
+      "dni": "65465465451",
+      "email": "daenerys@email.com",
+      "telefono": "2982728972",
+      "horasMantenimiento": "4",
+      "especialidad": "Cybersecurity",
+      "fechaIngreso": "24/02/2008"
+    },
+    {
+      "id": "09b6",
+      "nombre": "John",
+      "apellido": "Doe",
+      "dni": "123456789",
+      "email": "john@example.com",
+      "telefono": "1234567890",
+      "horasMantenimiento": "5",
+      "especialidad": "Front-End",
+      "fechaIngreso": "2023-01-30"
+    },
+    {
+      "id": "8441",
+      "nombre": "John",
+      "apellido": "Doe",
+      "dni": "123456789",
+      "email": "john@example.com",
+      "telefono": "1234567890",
+      "horasMantenimiento": "5",
+      "especialidad": "Front-End",
+      "fechaIngreso": "2023-01-30"
+    }
+  ],
+  "incidencia": [
+    {
+      "id": "1",
+      "aula": 2,
+      "descripcion": "monitor roto",
+      "nivelUrgencia": "Media",
+      "fechaRegistro": "2002/11/22",
+      "estado": "solucionado"
+    },
+    {
+      "id": "2",
+      "aula": 4,
+      "descripcion": "proyector no va",
+      "nivelUrgencia": "Urgente",
+      "fechaRegistro": "2002/12/22",
+      "estado": "no-solucionado"
+    },
+    {
+      "id": "72c6",
+      "aula": "dsds",
+      "descripcion": "dsds",
+      "nivelUrgencia": "",
+      "fechaRegistro": "2024-01-11",
+      "estado": "dsdsdsdd"
+    }
+  ]
+}
